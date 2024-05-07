@@ -7,8 +7,6 @@ This project aims to explore the applicability of various machine learning model
 
 This project is organized into three folders, each serving a specific purpose. Below is the structure and description of these directories:
 
-- `/data`: contains the CSV tables which have been used for the project.
-
 - `/plots`: houses all the plots generated as part of this project.
 
 - `/notebooks`: contains all model calculations, including data preprocessing, model training, parameter tuning, and evaluation metrics. 
