@@ -1,8 +1,8 @@
 st99_d00.dbf
 st99_d00.shp
 st99_d00.shx
-notebooks/predicting_crime.ipynb
-notebooks/geospatial_analysis.ipynb
-data/database.csv
+/notebooks/predicting_crime.ipynb
+/notebooks/geospatial_analysis.ipynb
+/data/database.csv
 
 
