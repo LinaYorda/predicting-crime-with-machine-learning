@@ -80,7 +80,9 @@ Relative Weaker Associations
 ### Machine Learning models to predict if a crime is solved.
 
 
-In this project, I applied several machine learning models to predict the likelihood of a crime being solved.
+In this project, I applied several machine learning models to predict the likelihood of a crime being solved. To avoid any racial and ethnical discrimination, I have omitted all columns that cause overfitting of the models, and I ended up with the following features - "Weapon", "Relationship", "Crime Solved", "Incident", "Crime Type", "Victim Count", "Perpetrator Count".
+
+The main priority of my analysis is not to build a model with a high score but rather to have an ethical one. 
 
 I selected four primary models based on their suitability for binary classification tasks and their varied approaches to learning from data:
 
