@@ -74,7 +74,7 @@ else:
     #print("Current working directory:", cwd)
 
 # Define the relative path to the file
-    file_path = os.path.join(cwd, 'us-homicide-report-1980-2014', 'data', 'database.csv')
+    file_path = os.path.join(cwd, 'data', 'database.csv')
     data = pd.read_csv('data/database.csv')
     st.write(data)
     st.write("The data has {} rows and {} columns.".format(data.shape[0], data.shape[1]))
